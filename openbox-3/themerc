@@ -14,14 +14,14 @@ window.*.button.*.bg:		parentrelative
 
 window.*.border.*.color:	#fafafa
 
-window.active.*.*.image.color:	#333333
-window.inactive.*.*.image.color:	#aaaaaa
-window.*.*.hover.image.color:	#df253f
-window.*.*.pressed.image.color:	#df253f
-window.inactive.*.*.image.color:	#aaaaaa
+window.active.button.unpressed.image.color:	#333333
+window.inactive.button.unpressed.image.color:	#aaaaaa
 
 window.active.label.text.color:	#333333
 window.inactive.label.text.color:	#aaaaaa
+
+window.*.button.hover.image.color:	#df253f
+window.*.button.pressed.image.color:	#df253f
 
 # Menu
 menu.border.width:			4
